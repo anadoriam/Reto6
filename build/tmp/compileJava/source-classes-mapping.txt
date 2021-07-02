@@ -1,0 +1,8 @@
+co/com/choucair/certification/reto6/tasks/OpenUp.java
+ co.com.choucair.certification.reto6.tasks.OpenUp
+co/com/choucair/certification/reto6/userinterface/ExitoPage.java
+ co.com.choucair.certification.reto6.userinterface.ExitoPage
+co/com/choucair/certification/reto6/tasks/CompraTv.java
+ co.com.choucair.certification.reto6.tasks.CompraTv
+co/com/choucair/certification/reto6/userinterface/CompraTvPage.java
+ co.com.choucair.certification.reto6.userinterface.CompraTvPage

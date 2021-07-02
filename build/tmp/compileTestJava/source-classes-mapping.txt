@@ -1,0 +1,4 @@
+co/com/choucair/certification/reto6/runner/RunnerTags.java
+ co.com.choucair.certification.reto6.runner.RunnerTags
+co/com/choucair/certification/reto6/stepdefinitions/ExitoStepdefinitions.java
+ co.com.choucair.certification.reto6.stepdefinitions.ExitoStepdefinitions
